@@ -19,9 +19,9 @@ export default function Experiencase() {
                     </div>
                     {/* INTEGRATIONS-1 WRAPPER */}
                     <div className="integrations-1-wrapper">
-                        <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 rows-2">
+                        <div className="row  d-flex row-cols-1 row-cols-md-2 row-cols-lg-3 rows-2">
                             {/* TOOL #1 */}
-                            <div className="col">
+                            <div className="col ">
                                 <Link href="#" className="in_tool it-1 r-12 mb-30 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="in_tool-logo-wrap">
@@ -148,6 +148,23 @@ export default function Experiencase() {
                                     </div>
                                 </Link>
                             </div>	{/* END FEATURE BOX #8 */}
+                            {/* TOOL #9 */}
+                            <div className="col">
+                                <Link href="#" className="in_tool it-9 r-12 wow fadeInUp">
+                                    {/* Icon */}
+                                    <div className="in_tool-logo-wrap">
+                                        <div className="in_tool-logo ico-90">
+                                            <img className="img-fluid" src="/images/clients/vui.png" alt="vui-logo" />
+                                        </div>
+                                    </div>
+                                    {/* Text */}
+                                    <div className="in_tool-txt">
+                                        <h6 className="s-20 w-700">VUI</h6>
+                                        <p className="p-sm"> Back End -  Nestjs with microservice in OnPremise</p>
+                                    </div>
+                                </Link>
+                            </div>	{/* END FEATURE BOX #9 */}
+                            {/* TOOL #9 */}
                             <div className="col">
                                 <Link href="#" className="in_tool it-9 r-12 wow fadeInUp">
                                     {/* Icon */}
@@ -158,7 +175,7 @@ export default function Experiencase() {
                                     </div>
                                     {/* Text */}
                                     <div className="in_tool-txt">
-                                        <h6 className="s-20 w-700">Edukar 360</h6>
+                                        <h6 className="s-20 w-700">Edukar</h6>
                                         <p className="p-sm"> Back End -  Nestjs with microservice in OnPremise</p>
                                     </div>
                                 </Link>

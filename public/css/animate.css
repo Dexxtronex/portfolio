@@ -1591,3 +1591,9 @@
 .slideOutUp {
   animation-name: slideOutUp;
 }
+
+@media (max-width: 990px) {
+  .wow {
+    visibility: visible !important; /* Hacer que los elementos ocultados sean visibles en dispositivos móviles */
+  }
+}
