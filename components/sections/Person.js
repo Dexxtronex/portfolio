@@ -11,7 +11,7 @@ export default function Person() {
                         <div className="col-md-6">
                             <div className="hero-5-txt wow fadeInRight">
                                 {/* Title */}
-                                <h2 className="s-58 w-700">Full Stack Developer and Master DevOps</h2>
+                                <h2 className="s-58 w-700">Michael Pérez - Full Stack Developer and Master DevOps</h2>
                                 {/* Text */}
                                 <p className="p-lg">In software development, don't look for the 'silver bullet', look for the perfect combination of persistence, continuous learning and creativity to solve challenges with ingenious and lasting solutions.
                                 </p>

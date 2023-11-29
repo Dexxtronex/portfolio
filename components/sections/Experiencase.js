@@ -148,23 +148,6 @@ export default function Experiencase() {
                                     </div>
                                 </Link>
                             </div>	{/* END FEATURE BOX #8 */}
-                            {/* TOOL #9 */}
-                            <div className="col">
-                                <Link href="#" className="in_tool it-9 r-12 wow fadeInUp">
-                                    {/* Icon */}
-                                    <div className="in_tool-logo-wrap">
-                                        <div className="in_tool-logo ico-90">
-                                            <img className="img-fluid" src="/images/clients/vui.png" alt="vui-logo" />
-                                        </div>
-                                    </div>
-                                    {/* Text */}
-                                    <div className="in_tool-txt">
-                                        <h6 className="s-20 w-700">VUI</h6>
-                                        <p className="p-sm"> Back End -  Nestjs with microservice in OnPremise</p>
-                                    </div>
-                                </Link>
-                            </div>	{/* END FEATURE BOX #9 */}
-                            {/* TOOL #9 */}
                             <div className="col">
                                 <Link href="#" className="in_tool it-9 r-12 wow fadeInUp">
                                     {/* Icon */}
