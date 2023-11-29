@@ -28,7 +28,7 @@ export default function MobileMenu() {
                 <li className="nl-simple" aria-haspopup="true"><Link href="#featured-solutions" className="h-link">Featured Solutions</Link></li>
                 <li className="nl-simple" aria-haspopup="true">
                     <Link href="https://wa.me/593996911729" target="_blank"  className="btn r-04 btn--theme hover--tra-white last-link">
-                        CALL
+                        WS
                     </Link>
                 </li>
             </ul>

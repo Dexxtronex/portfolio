@@ -11888,15 +11888,15 @@ body.theme--dark {
 }
 
 .loading--theme .loader {
-    border-color: transparent #f74780;
+    border-color: transparent #4fa8fb;
 }
 
 .loading--theme .loader::after {
-    border-color: transparent rgba(247, 71, 128, .15);
+    border-color: transparent rgba(79, 168, 251, .15);
 }
 
 .nav-theme .sm-info {
-    background-color: #f74780;
+    background-color: #4fa8fb;
 }
 
 .wsmenu>.wsmenu-list.nav-theme>li>ul.sub-menu>li>a:hover,
