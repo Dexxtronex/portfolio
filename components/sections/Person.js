@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Person() {
     return (
         <>
-            <section id="person" className="bg--scroll hero-section">
+            <section id="person" className="bg--scroll hero-section pt-40">
                 <div className="container">
                     <div className="row d-flex align-items-center">
                         {/* HERO TEXT */}
