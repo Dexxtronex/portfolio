@@ -8,7 +8,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, header
                 <div className="header-wrapper">
                     {/* MOBILE HEADER */}
                     <div className="wsmobileheader clearfix">
-                        <span className="smllogo"><img src="/images/logos/default.png" alt="mobile-logo" /> Dexx</span>
+                        <span className="smllogo"><img src="/images/logos/default.png" alt="mobile-logo" /> Michael Pérez</span>
                         <a id="wsnavtoggle" className="wsanimated-arrow" onClick={handleMobileMenu}><span /></a>
                     </div>
                     {/* NAVIGATION MENU */}
@@ -17,13 +17,13 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, header
                             {/* HEADER BLACK LOGO */}
                             <div className="desktoplogo">
                                 <Link href="#hero-1" className="logo-black">
-                                    <img className="light-theme-img" src="/images/logos/default.png" alt="logo" /> Dexx
+                                    <img className="light-theme-img" src="/images/logos/default.png" alt="logo" /> Michael Pérez
                                     <img className="dark-theme-img" src="/images/logos/default-dark.png" alt="logo" /> 
                                 </Link>
                             </div>
                             {/* HEADER WHITE LOGO */}
                             <div className="desktoplogo">
-                                <Link href="#hero-1" className="logo-white"><img src="/images/logos/default-dark.png" alt="logo" />Dexx</Link>
+                                <Link href="#hero-1" className="logo-white"><img src="/images/logos/default-dark.png" alt="logo" />Michael Pérez</Link>
                             </div>
                             {/* MAIN MENU */}
                             <nav className="wsmenu clearfix" style={{ height: `${isMobileMenu ? "100vh" : ""}` }}>

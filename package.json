@@ -1,8 +1,8 @@
 {
-    "name": "name",
+    "name": "dexx",
     "version": "0.1.0",
     "private": true,
-    "author": "author",
+    "author": "MICHAELPEREZ",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
